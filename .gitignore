@@ -1,1 +1,10 @@
+#ignore the virtual environment and the best model file
+
 /venvassignment 3/best_model.pth
+venvassignment 3/__pycache__/
+venvassignment 3/venv/
+/venv
+venv
+
+best_model.pth
+assignment 4/asg4.pdf
